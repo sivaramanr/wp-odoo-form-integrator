@@ -26,7 +26,7 @@ Open source plugins
 * [Ninja Forms](https://wordpress.org/plugins/ninja-forms/) Supported Version(s): 3.0
 * [Formidable Forms](https://wordpress.org/plugins/formidable/) Supported Version(s): 2.0
 
-== Installation ==
+## Installation
 
 #### Automatic Installation
 1. Visit Plugins > Add New
@@ -53,5 +53,5 @@ License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 ## Frequently Asked Questions
-##### Is Odoo knowledge needed to configure Odoo-Form Mapping? =
+##### Is Odoo knowledge needed to configure Odoo-Form Mapping?
 You must be at least aware of Odoo model fields before doing Odoo-Form Mapping. i.e, However some Odoo fields are marked as required, Odoo would still accept null values.
