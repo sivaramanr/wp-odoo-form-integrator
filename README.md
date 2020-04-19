@@ -54,16 +54,7 @@ Open source plugins
 4. Click on browse button and select plugin zip file. After file select click on Install Now button.
 5. Click on Activate Plugin button.
 
-== Screenshots ==
-
-1. screenshot-1.png
-2. screenshot-2.png
-3. screenshot-3.png
-
 == Frequently Asked Questions ==
-
-= Do you support other form types other than Contact Form 7? =
-The development is in progress. You can expect support for other form types soon. However, please leave your recommended form types in the Support section.
 
 = Is Odoo knowledge needed to configure Odoo-Form Mapping? =
 You must be at least aware of Odoo model fields before doing Odoo-Form Mapping. i.e, However some Odoo fields are marked as required, Odoo would still accept null values.
