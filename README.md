@@ -1,16 +1,7 @@
-=== Plugin Name ===
-Contributors: coderscom
-Tags: Odoo, Contact Form 7, Ninja Forms, Formidable Forms
-Requires at least: 3.0.1
-Tested up to: 4.7.3
-Stable tag: 4.3
-License: GPLv2
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
+# WP Odoo Form Integrator
 Odoo is an Open Source ERP and CRM. WP Odoo Form Integrator plugin is a bridge between Odoo and several highly used form plugins.
 
-== Description ==
-
+#### Description:
 [Odoo](https://www.odoo.com/) is an Open Source ERP and CRM. WP Odoo Form Integrator plugin is a bridge between Odoo and several highly used form plugins.
 
 WP Odoo Form Integrator provides the ability to Wordpress admin to bind any Odoo model with any form of the supported types. Once form fields are mapped with Odoo model fields, whenever the form is submitted, the same will also be submitted to Odoo as per the field mapping.
@@ -54,7 +45,13 @@ Open source plugins
 4. Click on browse button and select plugin zip file. After file select click on Install Now button.
 5. Click on Activate Plugin button.
 
-== Frequently Asked Questions ==
+Tags: Odoo, Contact Form 7, Ninja Forms, Formidable Forms
+Requires at least: 3.0.1
+Tested up to: 4.7.3
+Stable tag: 4.3
+License: GPLv2
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-= Is Odoo knowledge needed to configure Odoo-Form Mapping? =
+## Frequently Asked Questions
+##### Is Odoo knowledge needed to configure Odoo-Form Mapping? =
 You must be at least aware of Odoo model fields before doing Odoo-Form Mapping. i.e, However some Odoo fields are marked as required, Odoo would still accept null values.
